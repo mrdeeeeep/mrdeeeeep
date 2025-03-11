@@ -14,3 +14,5 @@ I specialize in **AI, Machine Learning, NLP, and Software Development**. With ex
 📧 **Email**: [de3p.me@gmail.com](mailto:de3p.me@gmail.com)  
 💻 **GitHub**: [mrdeeeeep](https://github.com/mrdeeeeep)  
 🔗 **LinkedIn**: [Deep Baro](https://www.linkedin.com/in/deep-baro-863386239/)
+💻 **Portfolio**: [Deep Baro](https://deepbaro.netlify.app/)
+
