@@ -22,5 +22,3 @@ I specialize in **AI, Machine Learning, NLP, and Software Development**. With ex
 🔗 **LinkedIn**: [Deep Baro](https://www.linkedin.com/in/deep-baro-863386239/)  
 
 ---
-
-🚀 Always exploring new technologies & building cool projects!
