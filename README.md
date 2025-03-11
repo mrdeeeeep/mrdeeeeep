@@ -1,7 +1,15 @@
-🚀 Deep Baro |  Developer & Machine Learning Engineer
+👋 Hi, I'm **Deep Baro**!  
+🎓 **Computer Science Undergraduate (CIT Kokrajhar, 2021-2025)**  
+🚀 **Versatile AI Developer & Data Scientist** | Web & Mobile App Developer  
 
+---
 
-👨‍💻 About Me
-I am a Computer Science Engineer (B.Tech, 2021–2025) with expertise in AI, Machine Learning, NLP, and Software Development. Passionate about solving real-world problems through technology, I specialize in web & mobile app development, deep learning, and AI-driven applications.
+### 🔥 About Me  
+I specialize in **AI, Machine Learning, NLP, and Software Development**. With experience in multiple projects and internships, I thrive in dynamic environments, solving problems and building scalable applications.  
 
+---
 
+### 📬 Let's Connect!  
+📧 **Email**: [de3p.me@gmail.com](mailto:de3p.me@gmail.com)  
+💻 **GitHub**: [mrdeeeeep](https://github.com/mrdeeeeep)  
+🔗 **LinkedIn**: [Deep Baro](https://www.linkedin.com/in/deep-baro-863386239/)
