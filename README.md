@@ -1,7 +1,7 @@
 👋 Hi, I'm **Deep Baro**!  
 🎓 **Computer Science Undergraduate (CIT Kokrajhar, 2021-2025)**  
 🎓 **BTech Undergraduate (CSE, CIT Kokrajhar, 2021-2025)**  
-🚀 ** AI Developer & Data Engineer** | Web & Mobile App Developer  
+🚀 ** AI Developer & Data Engineer | Web & Mobile App Developer **
 
 ---
 
