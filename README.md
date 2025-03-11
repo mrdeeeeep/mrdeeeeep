@@ -15,4 +15,6 @@ I specialize in **AI, Machine Learning, NLP, and Software Development**. With ex
 💻 **GitHub**: [mrdeeeeep](https://github.com/mrdeeeeep)  
 🔗 **LinkedIn**: [Deep Baro](https://www.linkedin.com/in/deep-baro-863386239/)
 💻 **Portfolio**: [Deep Baro](https://deepbaro.netlify.app/)
+
+
 ---
