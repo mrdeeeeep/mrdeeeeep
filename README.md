@@ -1,24 +1,38 @@
-# 👋 Hi, I'm Deep Baro!  
+# Deep Baro  
 
-🎓 **Computer Science Undergraduate (CIT Kokrajhar, 2021-2025)**  
-🎓 **BTech Undergraduate (CSE, CIT Kokrajhar, 2021-2025)**  
-🚀 **AI Developer & Data Engineer - Web & Mobile App Developer**  
+🎓 BTech Undergraduate (CSE, CIT Kokrajhar, 2021–2025)  
+💻 Frontend Developer
+🤖 Machine Learning Engineer
 
----
+## My Tech Stack
 
-## 🔥 About Me  
-I specialize in **AI, Machine Learning, NLP, and Software Development**. With experience in multiple projects and internships, I thrive in dynamic environments, solving problems and building scalable applications.  
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
+</div>
 
-## 🌐 Portfolio  
-🌍 **Website**: [deepbaro.netlify.app](https://deepbaro.netlify.app/)  
+## Contact
 
----
-
-## 📬 Let's Connect!  
-📧 **Email**: [de3p.me@gmail.com](mailto:de3p.me@gmail.com)  
-💻 **GitHub**: [mrdeeeeep](https://github.com/mrdeeeeep)  
-🔗 **LinkedIn**: [Deep Baro](https://www.linkedin.com/in/deep-baro-863386239/)  
-
----
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://deepbaro.netlify.app/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:de3p.me@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-baro-863386239/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrdeeeeep)
