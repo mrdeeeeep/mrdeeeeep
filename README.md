@@ -1,6 +1,6 @@
 # Deep Baro  
 
-🎓 BTech Undergraduate (CSE, CIT Kokrajhar, 2021–2025)  
+🎓 BTech (CSE, CIT Kokrajhar, 2021–2025)  
 💻 Frontend Developer
 🤖 Machine Learning Engineer
 
