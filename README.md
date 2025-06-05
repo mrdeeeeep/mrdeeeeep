@@ -1,8 +1,7 @@
 # Deep Baro  
 
 🎓 BTech (CSE, CIT Kokrajhar, 2021–2025)  
-💻 Web Developer
-🤖 Machine Learning Engineer
+💻 Web Developer & Machine Learning Engineer
 
 ## My Tech Stack
 
